@@ -21,7 +21,7 @@
 .adminMenuWarp{
     position: relative;
     float: left;
-    width: 160px;
+    width: 13%;
     background-color: #222;
 
 }
@@ -56,8 +56,8 @@
 
 .firstPage{
     position: relative;
-    float: left;
-    width: 1100.67px;
+    float: right;
+    width: 87%;
     height: 540px;
     background-color: rgb(220, 229, 245);
 }
@@ -75,17 +75,20 @@
 }
 
 .textPart{
+    width: 420px;
+    height: 100%;
     float: right;
-    padding: 200px 0;
+    padding: 200px 0 200px 0px;
     font-size: 30px;
     font-family: '微软雅黑';
 }
 
 .wenben{
-    padding: 10px 300px 10px 0px;
-    display: block;
+    padding: 10px 200px 10px 0px;
+    display: inline-block;
     color: #3486bd;
     text-decoration: none;
+
 
 }
 
